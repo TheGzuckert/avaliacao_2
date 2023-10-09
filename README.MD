@@ -4,9 +4,13 @@
 ### O projeto esta ultilizando as seguintes tecnologias:
 
 `Node 16.14.0`
+
 `Express`
+
 `Sequelize`
+
 `nodemon`
+
 `mysql2`
 
 ### Para rodar o pojeto:
