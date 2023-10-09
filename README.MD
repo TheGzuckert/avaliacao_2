@@ -42,7 +42,7 @@ http://localhost:3000/alunos
 http://localhost:3000/alunos/1
 ```json
 {
-	"nome": "Sthefane"
+	"nome": "Guuu"
 }
 ```
 
