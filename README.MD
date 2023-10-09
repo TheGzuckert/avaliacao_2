@@ -4,14 +4,20 @@
 ### O projeto esta ultilizando as seguintes tecnologias:
 
 `Node 16.14.0`
+
 `Express`
+
 `Sequelize`
+
 `nodemon`
+
 `mysql2`
 
 ### Para rodar o pojeto:
-- Execute o comando `npm intall`
-- Execute o comeando `npm start`
+- Execute o comando 
+`npm intall`
+- Execute o comeando 
+`npm start`
 
 ### Arquitetura do projeto
 - A pasta modela consiste em construir e configurar nossa tabela no banco de dados
@@ -22,13 +28,13 @@
 
 ### Explicando as funcionalidades da API
 
-[x] GET (Obter informações de um aluno) => Lista todos os alunos 
+- [x] GET (Obter informações de um aluno) => Lista todos os alunos 
 http://localhost:3000/alunos/
 
-[x] GET (Obtem informações de um unico aluno) => Lista somente um com base no id
+- [x] GET (Obtem informações de um unico aluno) => Lista somente um com base no id
 http://localhost:3000/alunos/
 
-[x] POST (Criar um novo aluno) => Cria um novo usuário
+- [x] POST (Criar um novo aluno) => Cria um novo usuário
 http://localhost:3000/alunos
 ```json
 {
@@ -38,15 +44,15 @@ http://localhost:3000/alunos
 }
 ```
 
-[x] PUT (Atualizar informações de um aluno) => Atualiza aluno com base no id
+- [x] PUT (Atualizar informações de um aluno) => Atualiza aluno com base no id
 http://localhost:3000/alunos/1
 ```json
 {
-	"nome": "Sthefane"
+	"nome": "Guuu"
 }
 ```
 
-[x] DELETE (Excluir um aluno) => Exclui aluno com base no id
+- [x] DELETE (Excluir um aluno) => Exclui aluno com base no id
 http://localhost:3000/alunos/1
 
 ### Atenciosamente, Gustavo Zuckert
