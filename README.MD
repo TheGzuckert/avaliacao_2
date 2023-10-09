@@ -14,8 +14,10 @@
 `mysql2`
 
 ### Para rodar o pojeto:
-- Execute o comando `npm intall`
-- Execute o comeando `npm start`
+- Execute o comando 
+`npm intall`
+- Execute o comeando 
+`npm start`
 
 ### Arquitetura do projeto
 - A pasta modela consiste em construir e configurar nossa tabela no banco de dados
