@@ -18,7 +18,7 @@
 
 `npm intall`
 
-- EEm seguida execute o comando abaixo para iniciar a aplicação
+- Em seguida execute o comando abaixo para iniciar a aplicação
 
 `npm start`
 
