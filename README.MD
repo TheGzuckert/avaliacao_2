@@ -14,9 +14,9 @@
 `mysql2`
 
 ### Para rodar o pojeto:
-- Execute o comando 
+- Execute o comando para criar a node_modules
 `npm intall`
-- Execute o comeando 
+- EEm seguida execute o comando abaixo para iniciar a aplicação
 `npm start`
 
 ### Arquitetura do projeto
